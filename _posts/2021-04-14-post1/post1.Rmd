@@ -1,0 +1,21 @@
+---
+title: "post1"
+description: |
+  A short description of the post.
+author:
+  - name: Meredith Rolfe
+    url: http://umass.edu/sbs/dacss
+date: 04-14-2021
+output:
+  distill::distill_article:
+    self_contained: false
+draft: true
+---
+
+Mtcars plot
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+plot(mtcars)
+```
+
