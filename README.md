@@ -130,6 +130,10 @@ You can store your image in the `users` folder and use the image name as the val
 
 Like before, once you are done, commit and push all the new generated and modified files to your repo.
 
+## Push your changes back to Github
+
+[[need instructions]]
+
 ## Making a Pull Request to the Main Repo
 
 Once you are done with everything, you may submit a pull request to the main repo (from where you forked the repo on your account). Head over to the blog repo and click the `Pull requests` button.
