@@ -67,18 +67,6 @@ library(postcards)
 ```
 
 
-## Toggle to Student Mode
-
-You are required to toggle to student mode so as to prevent future merge conflicts on the instructor's side.
-
-You may easily do this with the following command:
-
-``` r
-blogbuilder::iamstudent()
-```
-
-This command needs to be run everytime you pull changes from the Github repository.
-
 
 ## Creating a New Post with Distill
 
