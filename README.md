@@ -105,7 +105,7 @@ After you have forked the repo, you will have your 'own' version of the repo pag
 
 First, copy the URl for your repository before switching back to RStudio.
 
-![repoUrl](repoURL.png)
+![repoUrl](https://raw.githubusercontent.com/DACSS/course_blog_template/main/_guide/images/repoURL.png)
 
 
 Create a new R project, using the copied github URL. See video for more detailed instructions.
