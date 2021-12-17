@@ -44,4 +44,4 @@ vignettes/*.pdf
 # Environment Variables
 .Renviron
 .env
-
+email_creds
